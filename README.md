@@ -1,0 +1,2 @@
+# StampcheckPlist
+StampcheckApp
